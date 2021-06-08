@@ -1,4 +1,4 @@
-# Object_detection
+# Object_detection using yolo4 model
 
 ![object_detection](https://user-images.githubusercontent.com/54807024/121174697-85267a00-c7ed-11eb-8527-0b301f914187.jpeg)
 
