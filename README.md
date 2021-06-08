@@ -1,8 +1,10 @@
-# Object_detection using yolo4 model
+# Object_detection using yolo5 model
 
-![object_detection](https://user-images.githubusercontent.com/54807024/121174697-85267a00-c7ed-11eb-8527-0b301f914187.jpeg)
+![object_detection](https://user-images.githubusercontent.com/54807024/121174697-85267a00-c7ed-11eb-8527-0b301f914187.jpeg)  <br />
 
-This repository contain jupyter and google colab notebooks for building and testing  the yolo4 pretrained model for object detection. 
+This repository contain jupyter and google colab notebooks for building and testing  the yolo4 pretrained model for object detection.   <br />
 
 Colab  Notebook for building and testing pretrained yolo4 model for object detection : <br />
-https://colab.research.google.com/github/Chiebukar/Object_detection/blob/main/Object_detection_yolo5_webcam.ipynb
+https://colab.research.google.com/github/Chiebukar/Object_detection/blob/main/Object_detection_yolo5_webcam.ipynb   <br />
+
+https://user-images.githubusercontent.com/54807024/121213961-0b54b780-c812-11eb-95b7-a50a858da759.mp4
