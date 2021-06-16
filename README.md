@@ -7,4 +7,4 @@ This repository contain jupyter and google colab notebooks for building and test
 Colab  Notebook for building and testing pretrained yolo4 model for object detection : <br />
 https://colab.research.google.com/github/Chiebukar/Object_detection/blob/main/Object_detection_yolo5_webcam.ipynb   <br />
 
-https://user-images.githubusercontent.com/54807024/121213961-0b54b780-c812-11eb-95b7-a50a858da759.mp4
+https://user-images.githubusercontent.com/54807024/122164368-0a231c00-ce0a-11eb-8954-c43ef87193a8.mp4
